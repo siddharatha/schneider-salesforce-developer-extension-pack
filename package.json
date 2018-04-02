@@ -26,5 +26,6 @@
         "salesforce.salesforcedx-vscode"
     ],
     "galleryBanner.color": "#3dcd57",
-    "icon":"icon.png"
+    "icon":"icon.png",
+    "repository":"https://github.com/siddharatha/schneider-salesforce-developer-extension-pack"
 }
