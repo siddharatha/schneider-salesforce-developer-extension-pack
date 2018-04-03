@@ -2,7 +2,7 @@
     "name": "schneider-salesforce-developer-extension-pack",
     "displayName": "Schneider Salesforce Developer Extension Pack",
     "description": "Collection of extensions that helps salesforce developers to get started in VSCode",
-    "version": "0.3.0",
+    "version": "0.4.0",
     "publisher": "siddharatha",
     "engines": {
         "vscode": "^1.21.0"
