@@ -2,7 +2,7 @@
     "name": "schneider-salesforce-developer-extension-pack",
     "displayName": "Schneider Salesforce Developer Extension Pack",
     "description": "Collection of extensions that helps salesforce developers to get started in VSCode",
-    "version": "0.1.0",
+    "version": "0.3.0",
     "publisher": "siddharatha",
     "engines": {
         "vscode": "^1.21.0"
@@ -10,8 +10,8 @@
     "categories": [
         "Extension Packs"
     ],
-    "extensionDependencies": [        
-        "JohnAaronNelson.ForceCode",        
+    "extensionDependencies": [
+        "JohnAaronNelson.ForceCode",
         "ziyasal.vscode-open-in-github",
         "DotJoshJohnson.xml",
         "GuardRex.status-bar-tasks",
@@ -26,6 +26,6 @@
         "salesforce.salesforcedx-vscode"
     ],
     "galleryBanner.color": "#3dcd57",
-    "icon":"https://raw.githubusercontent.com/siddharatha/schneider-salesforce-developer-extension-pack/master/icon.png",
-    "repository":"https://github.com/siddharatha/schneider-salesforce-developer-extension-pack"
+    "icon": "icon.png",
+    "repository": "https://github.com/siddharatha/schneider-salesforce-developer-extension-pack"
 }

@@ -7,7 +7,7 @@ Please follow the below steps to get started with VSCode. We have collected the 
 ## To Install 
 - You would need to have some applications installed to better use the items within this extension.
 - https://git-scm.com/ ( install with git-bash, its critical for other extensions)
-- https://stedolan.github.io/jq/download/ ( to parse json in shell scripts)
+- GIT bash should be added to your path.
 
 ## Concepts
 - GIT is a source control management system we use to manage our metadata and code .
