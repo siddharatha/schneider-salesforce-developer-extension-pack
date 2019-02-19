@@ -3,7 +3,7 @@
 ## changes:
 
 - Remove usage of forcecode extension
-- Remove
+- add prettier
 
 ## pack: schneider-salesforce-developer-extension-pack
 
