@@ -1,27 +1,28 @@
 {
-    "name": "schneider-salesforce-developer-extension-pack",
-    "displayName": "Schneider Salesforce Developer Extension Pack",
-    "description": "Collection of extensions that helps schneider salesforce developers to get started in VSCode",
-    "version": "0.5.0",
-    "publisher": "siddharatha",
-    "engines": {
-        "vscode": "^1.31.0"
-    },
-    "categories": [
-        "Extension Packs"
-    ],
-    "extensionDependencies": [
-        "DotJoshJohnson.xml",
-        "chuckjonas.apex-pmd",
-        "donjayamanne.git-extension-pack",
-        "esbenp.prettier-vscode",
-        "jinsihou.diff-tool",
-        "mohsen1.prettify-json",
-        "salesforce.salesforcedx-vscode",
-        "dbaeumer.vscode-eslint",
-        "HugoOM.sfdx-autoheader"
-    ],
-    "galleryBanner.color": "#3dcd57",
-    "icon": "icon.png",
-    "repository": "https://github.com/siddharatha/schneider-salesforce-developer-extension-pack"
+  "name": "schneider-salesforce-developer-extension-pack",
+  "displayName": "Schneider Salesforce Developer Extension Pack",
+  "description": "Collection of extensions that helps schneider salesforce developers to get started in VSCode",
+  "version": "0.8.0",
+  "publisher": "siddharatha",
+  "engines": {
+    "vscode": "^1.31.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionDependencies": [
+    "DotJoshJohnson.xml",
+    "chuckjonas.apex-pmd",
+    "donjayamanne.git-extension-pack",
+    "esbenp.prettier-vscode",
+    "jinsihou.diff-tool",
+    "mohsen1.prettify-json",
+    "salesforce.salesforcedx-vscode",
+    "dbaeumer.vscode-eslint",
+    "HugoOM.sfdx-autoheader",
+    "trabpukcip.vscode-npm-scripts"
+  ],
+  "galleryBanner.color": "#3dcd57",
+  "icon": "icon.png",
+  "repository": "https://github.com/siddharatha/schneider-salesforce-developer-extension-pack"
 }

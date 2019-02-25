@@ -1,13 +1,26 @@
 # Change Log
+
 All notable changes to the "schneider-salesforce-developer-extension-pack" extension pack will be documented in this file.
 
+## [0.10.0]
 
-## [Unreleased]
-## [0.1.0 - 0.1.1]
-### Removed 
+- Added SFDX Auto Header
+
+## [0.9.1]
+
+- Added npm scripts
+
+## [0.8.0]
+
+- Added ESLInt
+- Added prettier
+
+### Removed
+
 - "JohnAaronNelson.visualforce"
 - "JohnAaronNelson.apex"
 - Declaration that this is not an official schneider publication .
 
 ## 0.0.1
+
 - Initial release
