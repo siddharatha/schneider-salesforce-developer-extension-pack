@@ -2,7 +2,11 @@
 
 All notable changes to the "schneider-salesforce-developer-extension-pack" extension pack will be documented in this file.
 
-## [0.8.1]
+## [0.10.0]
+
+- Added SFDX Auto Header
+
+## [0.9.1]
 
 - Added npm scripts
 
